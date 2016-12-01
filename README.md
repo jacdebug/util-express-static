@@ -19,7 +19,7 @@ Once you have `yarn` installed, just run
 $ yarn install
 ```
 
-from the project folder. Once installed you can start by running,
+from the project folder and you can start by running,
 
 ```
 $ yarn start
