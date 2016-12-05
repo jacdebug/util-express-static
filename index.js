@@ -15,3 +15,5 @@ app.listen(PORT, () => {
   console.log(`util-static-server running on ${INDEXURL}`);
   opn(INDEXURL)
 });
+
+module.exports = app;
