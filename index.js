@@ -15,7 +15,7 @@ app.use(express.static('public'));
 
 app.listen(PORT, () => {
   console.log(`util-static-server running on ${INDEXURL}`);
-  if(!istest) opn(INDEXURL);
+  if (!istest) opn(INDEXURL);
 });
 
 module.exports = app;
